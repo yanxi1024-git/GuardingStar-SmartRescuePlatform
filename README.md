@@ -41,8 +41,7 @@ It explores how smart vehicles can help in rescue missions when roads are blocke
 ## 🎥 Demo / 演示
 ![Car Photo](media/car-photo.jpg)
 
-🎥 [Watch the demo video]([https://youtu.be/xxxxxx](https://www.xiaohongshu.com/explore/68bcf523000000001c00e1d4?app_platform=android&ignoreEngage=true&app_version=8.99.0&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CBpiZ6BVeYbDZf9_UpzvJ_hBDayScLe_cvzJw5myBAQQA=&author_share=1&xhsshare=WeixinSession&shareRedId=ODo1N0dKSDw2NzUyOTgwNjZIOThKOzlL&apptime=1757213994&share_id=f84544a44bf648b78e057e864c5d72a4&share_channel=wechat))  
-*(Upload to YouTube / Bilibili and paste link here)*  
+🎥 [Watch the demo video](https://www.xiaohongshu.com/explore/68bcf523000000001c00e1d4?app_platform=android&ignoreEngage=true&app_version=8.99.0&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CBpiZ6BVeYbDZf9_UpzvJ_hBDayScLe_cvzJw5myBAQQA=&author_share=1&xhsshare=WeixinSession&shareRedId=ODo1N0dKSDw2NzUyOTgwNjZIOThKOzlL&apptime=1757213994&share_id=f84544a44bf648b78e057e864c5d72a4&share_channel=wechat)
 
 ---
 
